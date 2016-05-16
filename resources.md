@@ -1,3 +1,5 @@
+Resources and additional information about cartographic design topics, to accompany Maptime Boston's May 2016 meetup.
+
 ## General mapping and visualization
 
 - [Cartography and Visualization](https://www.e-education.psu.edu/geog486/) course website, Penn State
@@ -8,8 +10,8 @@
 - [DUSPViz](http://duspviz.mit.edu/), mostly by Mike Foster
 - [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.aqnpiksuu) by Kennedy Elliott
 - [CartoTalk](http://www.cartotalk.com/) forum hosted by NACIS
-- [How to Start Web Mapping?](http://gis.stackexchange.com/questions/8113/how-to-start-web-mapping) - message thread with a variety of suggestions for getting started in web mapping
 - [List of map-related blogs](https://docs.google.com/document/d/1pjrX7F3w9X1987aAtSvR88aa_UM9YnMfxmr5qDUi6Pc/edit?usp=sharing), publicly editable
+- [Cartographic Design](https://github.com/maptime/portland/blob/gh-pages/tutorials/Cartographic-Design-Notes-and-Resources-by-Alexa-Todd.md) notes and resources by Alexa Todd for MaptimePDX
 
 ## Books
 
@@ -53,6 +55,7 @@
 ## Visual Variables
 
 - [Visual Variables](http://www.axismaps.com/guide/color_schemes/), GIS wiki
+- [InfoVis: a semiotic perspective](http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InfoVisTutorial2010/infovisf10-wk2-bertin-v3.pdf) - slides mostly about visual variables, by Sheelagh Carpendale
 
 ## Color
 
@@ -75,6 +78,7 @@
 - [Map generalization exercise](images/map_generalization.jpg) by David Woodward
 - [ScaleMaster](http://www.personal.psu.edu/mzs114/ScaleMaster/ScaleMasterv0.html) - Flash-based interactive tool from some Penn State research about designing multiscale maps
 - [Zoom levels, pixel sizes, and scales, oh my](http://www.gretchenpeterson.com/blog/archives/3260) - a bit about how scale works on web maps Gretchen Peterson
+- [Mapshaper](http://mapshaper.org/), an online and command line tool for simplifying vector data by Matthew Bloch
 
 ## Map projections
 
