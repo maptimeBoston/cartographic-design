@@ -1,5 +1,7 @@
 # Maptime Boston’s Cartographic Design Tips
 
+This is a whirlwind tour of some basic cartographic design topics. For lots more information and practical resouces to go along with these, look at [resources.md](resources.md) in this repository.
+
 ## Do you need a map? Does it need to be interactive?
 
 It’s always good to ask whether your data or story even has a spatial component. If geography is not important, a map is probably not the best way to show it. Additionally, if you’re working on the web, think about how much your map benefits from interactivity, if at all. Just because you _can_ add interaction and more data doesn’t mean you _should_—it requires a lot more design work from you, and potential difficulty for your audience.
@@ -114,3 +116,7 @@ _Enhancement:_ add detail that visually elevates an object
 
 ![](images/displacement.png)  
 _Displacement:_ increase separation between objects
+
+## Further resources!
+
+Many links to in-depth information and practical tools related to all these topics are in [resources.md](resources.md)!
