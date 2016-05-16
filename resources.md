@@ -1,4 +1,4 @@
-## General mapping
+## General mapping and visualization
 
 - [Cartography and Visualization](https://www.e-education.psu.edu/geog486/) course website, Penn State
 - [mapschool.io](http://mapschool.io/)
@@ -41,7 +41,7 @@
 - [Dot Density Maps](http://www.axismaps.com/guide/dot_density/), Axis Maps
 - [Dot Maps](https://www.e-education.psu.edu/geog486/node/1870), Penn State Geog 486
 
-## General Map design
+## General map design
 - [Design is Human](https://somethingaboutmaps.wordpress.com/2015/05/19/design-is-human/) by Daniel Huffman
 - [More Principles of Map Design](https://makingmaps.net/2008/02/05/more-principles-of-map-design/) by John Krygier
 - [Easy Steps to Better Maps](http://duspviz.mit.edu/tutorials/making-better-maps/) by Mike Foster
@@ -84,7 +84,7 @@
 - [Map projection reference](http://www.radicalcartography.net/?projectionref) by Bill Rankin, grouped by use cases
 - [Why Mercator](https://gist.github.com/tmcw/a3828827c8490f7e13a9) - Tom MacWright explains why the Mercator projection is used for web maps
 - [Map projections and distortions](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/lecture04/concepts/Map%20coordinate%20systems/Map%20projections%20and%20distortion.htm), Hunter College  
-http://lyzidiamond.com/geodesy/#0
+- [The Wild World of Geodesy](http://lyzidiamond.com/geodesy/#0) by Lyzi Diamond
 
 ## Text
 
