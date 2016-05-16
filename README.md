@@ -2,6 +2,32 @@
 
 This is a whirlwind tour of some basic cartographic design topics. For lots more information and practical resouces to go along with these, look at [resources.md](resources.md) in this repository.
 
+## What is a map?
+
+Silly question, right? No! Think about the _what_ and _why_ of maps.
+
+A map is a *representation* of a place. It is a symbolic interpretation of place and highlights the relationships between elements in space, either perceived or actual. It reflects choices and biases of the mapmaker. It does not and cannot represent _everything_ in the place. Things must be omitted, simplified, etc. for the map to make sense.
+
+Maps can be divided into two broad categories: _reference_ and _thematic_. 
+
+*Reference maps* emphasize the *location* of spatial phenomena, e.g. topographic maps or road maps.  
+![](images/reference.jpg)
+
+*Thematic maps* emphasize the *spatial pattern* of geographic attributes, e.g. population density or income. Thematic maps come in a variety of flavors, including:
+
+![](images/choropleth.png)  
+_Choropleth_ maps in which *areas* are shaded by **color** to represent values. Choropleth maps are perhaps the most common and familiar type of thematic map, frequently seen for demographic or political data.
+
+![](images/prop_symbol.jpg)  
+_Proportional symbol_ maps, in which symbols (such a circles) are scaled in proportion to the data they represent. Symbols might represent point data, but it is also common for proportional symbols to be used for area features.
+
+![](images/dot.jpg)  
+_Dot_ maps, which use points to represent counts of a geographic phenomenon. Dot density maps rely on visual scatter to show spatial pattern. Dot maps may have a one-to-one relationship, in which one dot represents a single instance of something (e.g. one dot per vote), or a one-to-many relationship in which each dot represents a certain quantity of something.
+
+![](images/other_map_types.jpg)  
+...and many other types!
+
+
 ## Do you need a map? Does it need to be interactive?
 
 It’s always good to ask whether your data or story even has a spatial component. If geography is not important, a map is probably not the best way to show it. Additionally, if you’re working on the web, think about how much your map benefits from interactivity, if at all. Just because you _can_ add interaction and more data doesn’t mean you _should_—it requires a lot more design work from you, and potential difficulty for your audience.
