@@ -21,11 +21,11 @@ _Choropleth_ maps in which *areas* are shaded by **color** to represent values. 
 ![](images/prop_symbol.jpg)  
 _Proportional symbol_ maps, in which symbols (such a circles) are scaled in proportion to the data they represent. Symbols might represent point data, but it is also common for proportional symbols to be used for area features.
 
-![](images/dot.jpg)  
+![](images/dots.jpg)  
 _Dot_ maps, which use points to represent counts of a geographic phenomenon. Dot density maps rely on visual scatter to show spatial pattern. Dot maps may have a one-to-one relationship, in which one dot represents a single instance of something (e.g. one dot per vote), or a one-to-many relationship in which each dot represents a certain quantity of something.
 
 ![](images/other_map_types.jpg)  
-...and many other types!
+...and many other types! These notes are mostly about general map design topics rather than specific types of maps, but see the [resources](resources.md) list for more about some types of thematic maps.
 
 
 ## Do you need a map? Does it need to be interactive?
