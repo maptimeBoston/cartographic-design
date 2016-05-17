@@ -53,10 +53,11 @@ Color is an important component of good map design, and while true mastery of co
 - Keep in mind cartographic conventions you’ve seen: blue for water, etc.
 - Avoid red–green color schemes, as a significant population is colorblind and can’t discern these.
 - Think about whether your colors imply relationships, and whether relationships actually exist in what you’re mapping. If two things are not related, it may be best to color them with different hues.
+- Subtlety is usually your friend! Save any bold colors for important things in your hierarchy.
 
-For choropleth mapping, use color ramps appropriate to the nature of your data.
+For choropleth mapping, use color ramps appropriate to the nature of your data. 
 If there is no natural order of your data classes, use a _qualitative_ color scheme.
-If the data have order in one direction, use a _sequential_ color scheme.
+If the data have order in one direction, use a _sequential_ color scheme. (Definitely NOT a rainbow scheme!)
 If the data have order and can be divided above and below some meaningful breakpoint, use a _diverging_ color scheme.
 
 ![](images/colorramps.png)
