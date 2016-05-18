@@ -10,19 +10,22 @@ A map is a *representation* of a place. It is a symbolic interpretation of place
 
 Maps can be divided into two broad categories: _reference_ and _thematic_. 
 
-*Reference maps* emphasize the *location* of spatial phenomena, e.g. topographic maps or road maps.  
+**Reference maps** emphasize the *location* of spatial phenomena, e.g. topographic maps or road maps.  
 ![](images/reference.jpg)
 
-*Thematic maps* emphasize the *spatial pattern* of geographic attributes, e.g. population density or income. Thematic maps come in a variety of flavors, including:
+**Thematic maps** emphasize the *spatial pattern* of geographic attributes, e.g. population density or income. Thematic maps come in a variety of flavors, including:
 
 ![](images/choropleth.png)  
-_Choropleth_ maps in which *areas* are shaded by **color** to represent values. Choropleth maps are perhaps the most common and familiar type of thematic map, frequently seen for demographic or political data.
+**Choropleth** maps in which *areas* are shaded by color to represent values. Choropleth maps are perhaps the most common and familiar type of thematic map, frequently seen for demographic or political data.
 
 ![](images/prop_symbol.jpg)  
-_Proportional symbol_ maps, in which symbols (such a circles) are scaled in proportion to the data they represent. Symbols might represent point data, but it is also common for proportional symbols to be used for area features.
+**Proportional symbol** maps, in which symbols (such a circles) are scaled in proportion to the data they represent. Symbols might represent point data, but it is also common for proportional symbols to be used for area features.
 
 ![](images/dots.jpg)  
-_Dot_ maps, which use points to represent counts of a geographic phenomenon. Dot density maps rely on visual scatter to show spatial pattern. Dot maps may have a one-to-one relationship, in which one dot represents a single instance of something (e.g. one dot per vote), or a one-to-many relationship in which each dot represents a certain quantity of something.
+**Dot** maps, which use points to represent counts of a geographic phenomenon. Dot density maps rely on visual scatter to show spatial pattern. Dot maps may have a one-to-one relationship, in which one dot represents a single instance of something (e.g. one dot per vote), or a one-to-many relationship in which each dot represents a certain quantity of something.
+
+![](images/contour.jpg)  
+**Contour** or **isarithmic** maps interpolate values between points. They're most recognized as useful maps for representation of elevation or depth, but they can also be used to represent more thematic phenomena, such as temperature, weather, or social phenomena.
 
 ![](images/other_map_types.jpg)  
 ...and many other types! These notes are mostly about general map design topics rather than specific types of maps, but see the [resources](resources.md) list for more about some types of thematic maps.
