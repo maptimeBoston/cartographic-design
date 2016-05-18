@@ -81,7 +81,10 @@ _Quantiles. Does that outlier at the end really belong with the other green dots
 ![](images/natural_breaks.png)  
 _Hypothetical natural breaks. Looks good but can be hard to understand._
 
-Choropleth maps should also be normalized, that is, some kind of ratio rather than raw counts of things. Otherwise you just get http://xkcd.com/1138/. For example, population _density_ or GDP _per capita_ are more meaningful than just population or total GDP.
+![](images/classifications.jpg)  
+_Exact same data, different classification methods. Example by [John Nelson](http://uxblog.idvsolutions.com/2011/10/telling-truth.html)._
+
+Choropleth maps should also be _normalized_, that is, mapped as some kind of ratio rather than raw counts of things. Otherwise you just get http://xkcd.com/1138/ and furthermore your visual interpretation of values is affected by relative sizes of areas. For example, population _density_ or GDP _per capita_ are more meaningful than just population or total GDP.
 
 ## Map projections
 
