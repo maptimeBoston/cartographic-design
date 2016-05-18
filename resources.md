@@ -54,6 +54,7 @@ Resources and additional information about cartographic design topics, to accomp
 ## Visual Variables
 
 - [Visual Variables](http://www.axismaps.com/guide/color_schemes/), GIS wiki
+- [Visual Variables](https://www.geography.wisc.edu/faculty/roth/publications/Roth_2015_EG.pdf) - forthcoming overview paper by Robert Roth
 - [InfoVis: a semiotic perspective](http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InfoVisTutorial2010/infovisf10-wk2-bertin-v3.pdf) - slides mostly about visual variables, by Sheelagh Carpendale
 
 ## Color
