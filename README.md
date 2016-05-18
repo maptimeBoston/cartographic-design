@@ -107,6 +107,12 @@ Type can convey information through words, but characteristics of type can also 
 ![](images/label_hierarchy.png)  
 _Hypothetical label styles and hierarchy_
 
+![](images/label_mask.jpg)  
+_Masking or halos around labels can improve legibility against background features. ([Map example](https://somethingaboutmaps.wordpress.com/2015/09/28/a-matter-of-perspective/) by Daniel Huffman.)_
+
+![](images/label_placement)  
+_Order of preference for label placement on point features. ([source](http://www.svgopen.org/2002/papers/dahinden__good_map_graphics/))_
+
 ## Scale and generalization
 
 At its core, cartography is about _abstraction_. We don’t show data in its raw form; we clarify it in a variety of ways, often by removing things. A big reason is _scale_, that is, the size of the map compared to the size of the real world. It simply isn’t possible to show every tiny detail! Data and graphics should be _generalized_ appropriately to the map scale: at a large scale (”zoomed in”) you can have more detail. Typical generalization operations include:
