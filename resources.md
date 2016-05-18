@@ -5,7 +5,6 @@ Resources and additional information about cartographic design topics, to accomp
 - [Cartography and Visualization](https://www.e-education.psu.edu/geog486/) course website, Penn State
 - [mapschool.io](http://mapschool.io/)
 - [Thematic Cartography Guide](http://axismaps.com/guide) by Axis Maps
-- [GIS Commons](http://giscommons.org/introduction-concepts/), an introductory textbook on geographic information systems
 - [Unrequested Map Tips](http://uxblog.idvsolutions.com/2013/10/20-unrequested-map-tips-part-1.html) and [part 2](http://uxblog.idvsolutions.com/2013/11/20-unrequested-map-tips-part-2.html) by John Nelson
 - [DUSPViz](http://duspviz.mit.edu/), mostly by Mike Foster
 - [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.aqnpiksuu) by Kennedy Elliott
