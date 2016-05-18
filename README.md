@@ -88,10 +88,10 @@ Displaying a round earth on a flat map, i.e., projecting the map, requires disto
 - Does the map projection look decent, with geography looking recognizable?
 
 ![](images/albers.png)  
-_Choropleth and dot density maps should use equal-area projections, such as Albers Equal Area Conic for continent-level maps or Mollweide for world maps, so that size distortions don't lead us to misinterpret data values._
+_Choropleth and dot density maps should use equal-area projections, such as Albers Equal Area Conic (above) for continent-level maps or Mollweide for world maps, so that size distortions don't lead us to misinterpret data values._
 
 ![](images/winkel.png)  
-_Compromise projections such as Winkel Tripel or Robinson were developed mainly to produce a familiar, not wildly distorted appearance. They preserve no properties perfectly but generally look good for world maps._
+_Compromise projections such as Winkel Tripel (above) or Robinson were developed mainly to produce a familiar, not wildly distorted appearance. They preserve no properties perfectly but generally look good for world maps._
 
 ![](images/mercator.png)  
 _The widespread Mercator projection (seen in most web maps) preserves local directions but badly distorts sizes at global scale. It's good for navigating in a city or sailing across the ocea, but it is not ideal for thematic maps._
