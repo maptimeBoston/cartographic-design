@@ -110,7 +110,7 @@ _Hypothetical label styles and hierarchy_
 ![](images/label_mask.jpg)  
 _Masking or halos around labels can improve legibility against background features. ([Map example](https://somethingaboutmaps.wordpress.com/2015/09/28/a-matter-of-perspective/) by Daniel Huffman.)_
 
-![](images/label_placement)  
+![](images/label_placement.png)  
 _Order of preference for label placement on point features. ([source](http://www.svgopen.org/2002/papers/dahinden__good_map_graphics/))_
 
 ## Scale and generalization
