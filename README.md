@@ -49,7 +49,7 @@ Try the _squint test_. If you stand back or squint to blur your map, do the key 
 
 ## Color
 
-Color is an important component of good map design, and while true mastery of color takes a designer’s eye and experience, there are some general guidelines to follow:
+Color is an important component of good map design, and while true mastery of color takes a designer’s eye and experience, there are some general guidelines to start with:
 - Keep in mind cartographic conventions you’ve seen: blue for water, etc.
 - Avoid red–green color schemes, as a significant population is colorblind and can’t discern these.
 - Think about whether your colors imply relationships, and whether relationships actually exist in what you’re mapping. If two things are not related, it may be best to color them with different hues.
@@ -88,13 +88,16 @@ Displaying a round earth on a flat map, i.e., projecting the map, requires disto
 - Does the map projection look decent, with geography looking recognizable?
 
 ![](images/albers.png)  
-_Choropleth and dot density maps should use equal-area projections, such as Albers Equal Area Conic._
+_Choropleth and dot density maps should use equal-area projections, such as Albers Equal Area Conic for continent-level maps or Mollweide for world maps, so that size distortions don't lead us to misinterpret data values._
 
 ![](images/winkel.png)  
-_Composite projections such as Winkel Tripel preserve nothing perfectly but generally look good for world maps._
+_Compromise projections such as Winkel Tripel or Robinson were developed mainly to produce a familiar, not wildly distorted appearance. They preserve no properties perfectly but generally look good for world maps._
 
 ![](images/mercator.png)  
-_The widespread Mercator projection preserves local directions but badly distorts sizes at global scale. It is not ideal for thematic maps._
+_The widespread Mercator projection (seen in most web maps) preserves local directions but badly distorts sizes at global scale. It's good for navigating in a city or sailing across the ocea, but it is not ideal for thematic maps._
+
+![](images/lambert.jpg)  
+_Lambert Conformal Conic is a popular projection for North America and other areas of similar east-west extent. It preserves shape in a sense and generally looks "right" and familiar._
 
 ## Text and labels
 
