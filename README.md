@@ -105,7 +105,7 @@ Type can convey information through words, but characteristics of type can also 
 - A convention is to label physical features (water bodies, for example) with a serif font. Water labels are often italicized.
 
 ![](images/label_hierarchy.png)  
-_Hypothetical label styles and hierarchy_
+_Hypothetical label styles and hierarchy. Labels for large areas often use increased letter spacing (tracking)._ 
 
 ![](images/label_mask.jpg)  
 _Masking or halos around labels can improve legibility against background features. ([Map example](https://somethingaboutmaps.wordpress.com/2015/09/28/a-matter-of-perspective/) by Daniel Huffman.)_
