@@ -61,7 +61,7 @@ Resources and additional information about cartographic design topics, to accomp
 
 - [ColorBrewer](http://colorbrewer.org), Cindy Brewer + Axis Maps
 - [Using Colors on Thematic Maps](http://www.axismaps.com/guide/color_schemes/), Axis Maps
-- [Using COlor in Maps](http://visual.ly/using-color-maps) - handy guide compiled from work by John Krygier
+- [Using Color in Maps](http://visual.ly/using-color-maps) - handy guide compiled from work by John Krygier
 - [Map Color Resources](https://makingmaps.net/2007/07/16/map-color-resources/)
 - [Your Friendly Guide to Colors in Data Visualisation](http://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/) by Lisa Charlotte Rost
 
