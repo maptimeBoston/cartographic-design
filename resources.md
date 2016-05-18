@@ -82,6 +82,7 @@ Resources and additional information about cartographic design topics, to accomp
 
 ## Map projections
 
+- [Projection Wizard](http://projectionwizard.org/) - a web tool to help select appropriate map projections, from Oregon State
 - [Coordinate Systems and Projections concept gallery](https://www.e-education.psu.edu/geog486/l7_p9.html), Penn State 486
 - [Projections and Coordinate Systems](http://mjfoster83.github.io/projections/index.html#/) by Mike Foster for Maptime Boston
 - [Map Projections](http://www.axismaps.com/guide/projections/) by Daniel Huffman for the Axis Maps thematic cartography guide
