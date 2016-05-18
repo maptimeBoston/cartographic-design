@@ -75,7 +75,7 @@ Resources and additional information about cartographic design topics, to accomp
 ## Scale and generalization
 
 - [Generalisation of Map Data](http://www.gitta.info/Generalisati/en/html/index.html), Geographic Information Technology Trainling Alliance
-- [Map generalization exercise](images/map_generalization.jpg) by David Woodward
+- [Map generalization exercise](https://www.dropbox.com/s/0i14zc7yjohazq8/map_generalization_woodward.png?dl=0) by David Woodward
 - [ScaleMaster](http://www.personal.psu.edu/mzs114/ScaleMaster/ScaleMasterv0.html) - Flash-based interactive tool from some Penn State research about designing multiscale maps
 - [Zoom levels, pixel sizes, and scales, oh my](http://www.gretchenpeterson.com/blog/archives/3260) - a bit about how scale works on web maps Gretchen Peterson
 - [Mapshaper](http://mapshaper.org/), an online and command line tool for simplifying vector data by Matthew Bloch
