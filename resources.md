@@ -66,7 +66,7 @@ Resources and additional information about cartographic design topics, to accomp
 - [Your Friendly Guide to Colors in Data Visualisation](http://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/) by Lisa Charlotte Rost
 - [Color Oracle](http://colororacle.org/), a color blindness simulator
 - [Adobe color wheel](https://color.adobe.com/create/color-wheel/), a tool for generating color palettes
-- [Color Hex](http://www.color-hex.com/) and [Popular Palettes](http://www.color-hex.com/color-palettes/)
+- [Color Hex](http://www.color-hex.com/) and [Color Hex - Popular Palettes](http://www.color-hex.com/color-palettes/)
 
 ## Data Classification
 
