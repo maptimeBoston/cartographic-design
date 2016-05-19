@@ -64,6 +64,8 @@ Resources and additional information about cartographic design topics, to accomp
 - [Using Color in Maps](http://visual.ly/using-color-maps) - handy guide compiled from work by John Krygier
 - [Map Color Resources](https://makingmaps.net/2007/07/16/map-color-resources/)
 - [Your Friendly Guide to Colors in Data Visualisation](http://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/) by Lisa Charlotte Rost
+- [Color Oracle](http://colororacle.org/), a color blindness simulator
+- [Adobe color wheel](https://color.adobe.com/create/color-wheel/), a tool for generating color palettes
 
 ## Data Classification
 
