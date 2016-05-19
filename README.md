@@ -44,7 +44,7 @@ _The seven “retinal variables” proposed by Jacques Bertin in_ Semiology of G
 
 ## Visual hierarchy
 
-Good _visual hierarchy_ is crucial to overall effective map design. Visual hierarchy is the organization of design such that some things seem more prominent and important, and others less so. Visual hierarchy should match _intellectual_ hierarchy—what are the most important things in your map, conceptually? Those should stand out. Visual hiearchy depends on _figure-ground relationships_. Figures are the things that stand out; ground is the rest. (Think foreground and background.) Contrast is the key. In general, larger and darker things appear as figure.
+Good _visual hierarchy_ is crucial to overall effective map design. Visual hierarchy is the organization of design such that some things seem more prominent and important, and others less so. Visual hierarchy should match the _intellectual_ hierarchy of your composition—what are the most important things in your map, conceptually? Those should stand out. Visual hiearchy depends on _figure-ground relationships_. Figures are the things that stand out; ground is the rest. (Think foreground and background.) Contrast is the key. In general, larger and darker things appear as figure.
 
 Try the _squint test_. If you stand back or squint to blur your map, do the key components still stand out?
 
@@ -57,6 +57,7 @@ Color is an important component of good map design, and while true mastery of co
 - Avoid red–green color schemes, as a significant population is colorblind and can’t discern these.
 - Think about whether your colors imply relationships, and whether relationships actually exist in what you’re mapping. If two things are not related, it may be best to color them with different hues.
 - Subtlety is usually your friend! Save any bold colors for important things in your hierarchy.
+- When using color ramps, try to limit yourself to 6-8 colors or shades. Beyond that, it becomes challenging for the human eye to differentiate.
 
 For choropleth mapping, use color ramps appropriate to the nature of your data. 
 If there is no natural order of your data classes, use a _qualitative_ color scheme.
